@@ -23,7 +23,7 @@ function App() {
     <>
       <div className="pt-10">
         <h1 className="mb-10 font-bold text-4xl">
-          Last 7 repositories of {user}'s
+          Last 6 repositories of {user}'s
         </h1>
       </div>
 
